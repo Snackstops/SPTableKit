@@ -1,0 +1,6 @@
+framework module SPTableKit {
+  umbrella header "SPTableKit.h"
+
+  export *
+  module * { export * }
+}
