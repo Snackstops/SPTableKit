@@ -18,6 +18,7 @@ FOUNDATION_EXPORT const unsigned char SPTableKitVersionString[];
 #import <SPTableKit/SPTableKitView.h>
 #import <SPTableKit/SPSingleTbModel.h>
 #import <SPTableKit/SPCHTbModel.h>
+#import <SPTableKit/UIViewController+SPTableKit.h>
 //Suspension window
 
 

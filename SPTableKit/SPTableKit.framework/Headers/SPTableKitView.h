@@ -13,9 +13,22 @@
 #import "NSObject+SPTbAddPro.h"
 NS_ASSUME_NONNULL_BEGIN
 
+typedef NS_ENUM(NSInteger, OpenType) {
+    OpenTypeNormal       = 0,
+    OpenTypeJUMG         = 1,
+};
+
+@protocol SPTableKitViewDelegate <NSObject>
+@optional
+- (void)FinishedLoading;
+@end
+
+
 @interface SPTableKitView : UITableView
-
-
+@property (nonatomic, weak) id <SPTableKitViewDelegate> delegate;
+@property (nonatomic, strong) UIViewController *SuperVC;
+//初始化设置弹窗View
+-(instancetype)initWithFrame:(CGRect)frame WithSPTableKitViewOBJType:(OpenType)Type;
 #pragma mark - 数据设置
 ///设置所有数据数组
 @property(nonatomic, strong)NSMutableArray *spDatas;
