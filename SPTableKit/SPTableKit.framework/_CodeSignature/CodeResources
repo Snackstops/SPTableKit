@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/SPTableKit.h</key>
 		<data>
-		tUb6nmDW0dPcKVNBMWxAvEy0tv4=
+		VI7ZXdWRyIJ8JIYhwYW/AUvAPls=
 		</data>
 		<key>Headers/SPTableKitConfig.h</key>
 		<data>
@@ -31,6 +31,10 @@
 		<key>Headers/SPTableKitView.h</key>
 		<data>
 		hlKpg8O1DuYqfRAfEHwQzlPko18=
+		</data>
+		<key>Headers/SPTableKit_Tools.h</key>
+		<data>
+		GohwA4Uho7gkPfKSWOjlrHA0TIk=
 		</data>
 		<key>Headers/SPTbGetProName.h</key>
 		<data>
@@ -99,11 +103,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tUb6nmDW0dPcKVNBMWxAvEy0tv4=
+			VI7ZXdWRyIJ8JIYhwYW/AUvAPls=
 			</data>
 			<key>hash2</key>
 			<data>
-			agFyCmA9pDzBEaDqEgWJU7s6krRvdvmWvwrf9bvxjhg=
+			wQjcpnecu2bNmX9RIbuQsB8qgIeb+PpSBrDd5qYLKDE=
 			</data>
 		</dict>
 		<key>Headers/SPTableKitConfig.h</key>
@@ -126,6 +130,17 @@
 			<key>hash2</key>
 			<data>
 			yD37+oQU0k616WLV9QKVEi0R6ouemnUZqox39LgZuMc=
+			</data>
+		</dict>
+		<key>Headers/SPTableKit_Tools.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GohwA4Uho7gkPfKSWOjlrHA0TIk=
+			</data>
+			<key>hash2</key>
+			<data>
+			mDVgQ/hOfbaPY/vc+2nCfRedvEhIhAeUdazUtb3eoPk=
 			</data>
 		</dict>
 		<key>Headers/SPTbGetProName.h</key>
