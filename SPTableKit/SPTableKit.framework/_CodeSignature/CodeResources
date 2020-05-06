@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/SPTableKit.h</key>
 		<data>
-		fB5HB0eCTx/6zGIpexoCJtN7/bg=
+		hbdWKInOkQQ7PUFfsNNLjTWXtcU=
 		</data>
 		<key>Headers/SPTableKitConfig.h</key>
 		<data>
@@ -39,10 +39,6 @@
 		<key>Headers/UIView+SPTbGetResponder.h</key>
 		<data>
 		7BYV5W+JdrQUNXfIFFUs0wKtMdM=
-		</data>
-		<key>Headers/UIViewController+SPTableKit.h</key>
-		<data>
-		U90lKiqkupeFRm6MP9t1d2O2/zo=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -103,11 +99,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fB5HB0eCTx/6zGIpexoCJtN7/bg=
+			hbdWKInOkQQ7PUFfsNNLjTWXtcU=
 			</data>
 			<key>hash2</key>
 			<data>
-			LpZbfmkGpUvSU4m2pkjIYkOtKgobZLBozPaDZORGHUw=
+			hkbrgDa7SLBeMwkB/XiUTBkHABxCamJQs8QBDhT+En0=
 			</data>
 		</dict>
 		<key>Headers/SPTableKitConfig.h</key>
@@ -152,17 +148,6 @@
 			<key>hash2</key>
 			<data>
 			rp/TEavcCnWMZ6yu7JOLZVpJqUZGw5MCNQRH23fZd8A=
-			</data>
-		</dict>
-		<key>Headers/UIViewController+SPTableKit.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			U90lKiqkupeFRm6MP9t1d2O2/zo=
-			</data>
-			<key>hash2</key>
-			<data>
-			VuiwToUAe47081o5UimIv9Q1HvhkbDOc6IAhx0YKNuI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
