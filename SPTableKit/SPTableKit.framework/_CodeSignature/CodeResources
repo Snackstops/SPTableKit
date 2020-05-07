@@ -4,14 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/NSObject+SPTbAddPro.h</key>
-		<data>
-		9YYgOUnsE+s6dcs8UgukNoRIniQ=
-		</data>
-		<key>Headers/NSObject+SPTbSafeValue.h</key>
-		<data>
-		iN0Fge909fiTL8NfSVzaq1DYBvc=
-		</data>
 		<key>Headers/SPCHTbModel.h</key>
 		<data>
 		qMF9DFtMYILhVrvVt/URNq0H44c=
@@ -22,23 +14,11 @@
 		</data>
 		<key>Headers/SPTableKit.h</key>
 		<data>
-		aRUmopsIGnUM3bfKvH8aE9VOb3A=
-		</data>
-		<key>Headers/SPTableKitConfig.h</key>
-		<data>
-		bqmN2f4xgeNs7bCL8pMAW4dqk9g=
+		VBBsT26PF8NKzPCzse99qthJPCI=
 		</data>
 		<key>Headers/SPTableKitView.h</key>
 		<data>
 		hlKpg8O1DuYqfRAfEHwQzlPko18=
-		</data>
-		<key>Headers/SPTbGetProName.h</key>
-		<data>
-		RFU4UmI6ua1OPiX13iNS03IFXSY=
-		</data>
-		<key>Headers/UIView+SPTbGetResponder.h</key>
-		<data>
-		7BYV5W+JdrQUNXfIFFUs0wKtMdM=
 		</data>
 		<key>Headers/UIViewController+SPTableKit.h</key>
 		<data>
@@ -55,28 +35,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/NSObject+SPTbAddPro.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9YYgOUnsE+s6dcs8UgukNoRIniQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			IpJ1usnIA8HbAJ8GLx4N90LpxWM3aDQC3MMTd95ULUQ=
-			</data>
-		</dict>
-		<key>Headers/NSObject+SPTbSafeValue.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			iN0Fge909fiTL8NfSVzaq1DYBvc=
-			</data>
-			<key>hash2</key>
-			<data>
-			PnDyTFB2ulmbC3n9R+f674bfJWigJHziNMmUD8ut4BY=
-			</data>
-		</dict>
 		<key>Headers/SPCHTbModel.h</key>
 		<dict>
 			<key>hash</key>
@@ -103,22 +61,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aRUmopsIGnUM3bfKvH8aE9VOb3A=
+			VBBsT26PF8NKzPCzse99qthJPCI=
 			</data>
 			<key>hash2</key>
 			<data>
-			MFEDsjjPwSF02KhCQUWrqTn7rN9Bvq4MmcwLWL8yKgA=
-			</data>
-		</dict>
-		<key>Headers/SPTableKitConfig.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bqmN2f4xgeNs7bCL8pMAW4dqk9g=
-			</data>
-			<key>hash2</key>
-			<data>
-			CuTm9vuXXhneASRK8CF9Tkz5yfy40unou5R73F+4IDg=
+			dRJ2wrhN93kcOWzNdlN47Fy7lPPbo/DY0Osxgx2T0ao=
 			</data>
 		</dict>
 		<key>Headers/SPTableKitView.h</key>
@@ -130,28 +77,6 @@
 			<key>hash2</key>
 			<data>
 			yD37+oQU0k616WLV9QKVEi0R6ouemnUZqox39LgZuMc=
-			</data>
-		</dict>
-		<key>Headers/SPTbGetProName.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RFU4UmI6ua1OPiX13iNS03IFXSY=
-			</data>
-			<key>hash2</key>
-			<data>
-			dfjgHDF/odvWlKmWWGMMEFh/qNUszgDZ7Vgrttc4jRk=
-			</data>
-		</dict>
-		<key>Headers/UIView+SPTbGetResponder.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7BYV5W+JdrQUNXfIFFUs0wKtMdM=
-			</data>
-			<key>hash2</key>
-			<data>
-			rp/TEavcCnWMZ6yu7JOLZVpJqUZGw5MCNQRH23fZd8A=
 			</data>
 		</dict>
 		<key>Headers/UIViewController+SPTableKit.h</key>
