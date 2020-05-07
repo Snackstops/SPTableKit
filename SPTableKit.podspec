@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "SPTableKit"
-  spec.version      = "0.0.9"
+  spec.version      = "0.1.0"
   spec.summary      = "快速、高效地构建TableView"
 
   # This description is used to generate tags and improve search results.
