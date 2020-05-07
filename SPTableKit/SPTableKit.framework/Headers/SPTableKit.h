@@ -18,11 +18,11 @@ FOUNDATION_EXPORT const unsigned char SPTableKitVersionString[];
 #import <SPTableKit/SPTableKit.h>
 
 
-//#import <SPTableKit/NSObject+SPTbAddPro.h>
-//#import <SPTableKit/NSObject+SPTbSafeValue.h>
-//#import <SPTableKit/SPTbGetProName.h>
-//#import <SPTableKit/UIView+SPTbGetResponder.h>
-//#import <SPTableKit/SPTableKitConfig.h>
+#import <SPTableKit/NSObject+SPTbAddPro.h>
+#import <SPTableKit/NSObject+SPTbSafeValue.h>
+#import <SPTableKit/SPTbGetProName.h>
+#import <SPTableKit/UIView+SPTbGetResponder.h>
+#import <SPTableKit/SPTableKitConfig.h>
 
 
 #import <SPTableKit/SPTableKitView.h>

@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "SPTableKit"
-  spec.version      = "0.2.6"
+  spec.version      = "0.2.7"
   spec.summary      = "快速、高效地构建TableView"
 
   # This description is used to generate tags and improve search results.
@@ -27,7 +27,7 @@ Pod::Spec.new do |spec|
   # spec.description  = <<-DESC
   #                  DESC
 
-  spec.homepage     = "hhttps://github.com/Snackstops/SPTableKit"
+  spec.homepage     = "https://github.com/Snackstops/SPTableKit"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -52,7 +52,7 @@ Pod::Spec.new do |spec|
   #  profile URL.
   #
 
-  spec.author             = { "Snackstops" => "30.2.66105@qq.com" }
+  spec.author             = { "Snackstops" => "30.2.76105@qq.com" }
   # Or just: spec.author    = "apple"
   # spec.authors            = { "apple" => "" }
   # spec.social_media_url   = "https://twitter.com/apple"
