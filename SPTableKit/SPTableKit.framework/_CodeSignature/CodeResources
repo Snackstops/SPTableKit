@@ -12,6 +12,10 @@
 		<data>
 		iN0Fge909fiTL8NfSVzaq1DYBvc=
 		</data>
+		<key>Headers/PushEncapsulationTools.h</key>
+		<data>
+		s2qLXRukpoPsaF2rYrJmZTQDkaI=
+		</data>
 		<key>Headers/SPCHTbModel.h</key>
 		<data>
 		qMF9DFtMYILhVrvVt/URNq0H44c=
@@ -22,7 +26,7 @@
 		</data>
 		<key>Headers/SPTableKit.h</key>
 		<data>
-		aRUmopsIGnUM3bfKvH8aE9VOb3A=
+		T6HOR+flAB7kXu6sBx34WmYN47w=
 		</data>
 		<key>Headers/SPTableKitConfig.h</key>
 		<data>
@@ -77,6 +81,17 @@
 			PnDyTFB2ulmbC3n9R+f674bfJWigJHziNMmUD8ut4BY=
 			</data>
 		</dict>
+		<key>Headers/PushEncapsulationTools.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			s2qLXRukpoPsaF2rYrJmZTQDkaI=
+			</data>
+			<key>hash2</key>
+			<data>
+			zGgVsqwSZLtLCDyxBoxpsgaLE1167/GTpjJOHSc1+uU=
+			</data>
+		</dict>
 		<key>Headers/SPCHTbModel.h</key>
 		<dict>
 			<key>hash</key>
@@ -103,11 +118,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aRUmopsIGnUM3bfKvH8aE9VOb3A=
+			T6HOR+flAB7kXu6sBx34WmYN47w=
 			</data>
 			<key>hash2</key>
 			<data>
-			MFEDsjjPwSF02KhCQUWrqTn7rN9Bvq4MmcwLWL8yKgA=
+			CQomTEIx9lEwGF5PeSxAlsULQ55poatYgxMUIcuhvO4=
 			</data>
 		</dict>
 		<key>Headers/SPTableKitConfig.h</key>
