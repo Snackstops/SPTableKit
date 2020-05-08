@@ -23,7 +23,7 @@ FOUNDATION_EXPORT const unsigned char SPTableKitVersionString[];
 #import <SPTableKit/SPTbGetProName.h>
 #import <SPTableKit/UIView+SPTbGetResponder.h>
 #import <SPTableKit/SPTableKitConfig.h>
-//#import <SPTableKit/PushEncapsulationTools.h>
+#import <SPTableKit/PushEncapsulationTools.h>
 
 
 #import <SPTableKit/SPTableKitView.h>
