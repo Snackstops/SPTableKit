@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/AppDelegate+PushEncapsulation.h</key>
+		<data>
+		CknLsCoKWuDL+P44ksoa6IEEOCM=
+		</data>
 		<key>Headers/NSObject+SPTbAddPro.h</key>
 		<data>
 		9YYgOUnsE+s6dcs8UgukNoRIniQ=
@@ -22,7 +26,7 @@
 		</data>
 		<key>Headers/SPTableKit.h</key>
 		<data>
-		C9OJPzym0bp0FZeBH47SLc13A3M=
+		T6HOR+flAB7kXu6sBx34WmYN47w=
 		</data>
 		<key>Headers/SPTableKitConfig.h</key>
 		<data>
@@ -46,7 +50,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		jZDgXW23AO0QBwlsTRHuzuECmI0=
+		BxVk3YTiEjGIlkN5XAA0u5Jc06A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -55,6 +59,17 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/AppDelegate+PushEncapsulation.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CknLsCoKWuDL+P44ksoa6IEEOCM=
+			</data>
+			<key>hash2</key>
+			<data>
+			BX1oP7iaEJRNov9W47GR3hgXfP9Hjurc9I+Mdw0G8A0=
+			</data>
+		</dict>
 		<key>Headers/NSObject+SPTbAddPro.h</key>
 		<dict>
 			<key>hash</key>
@@ -103,11 +118,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			C9OJPzym0bp0FZeBH47SLc13A3M=
+			T6HOR+flAB7kXu6sBx34WmYN47w=
 			</data>
 			<key>hash2</key>
 			<data>
-			MClOJ81x01+jYMIcV4+DxONIYmGuaG0LN4to8WJPtXk=
+			CQomTEIx9lEwGF5PeSxAlsULQ55poatYgxMUIcuhvO4=
 			</data>
 		</dict>
 		<key>Headers/SPTableKitConfig.h</key>
