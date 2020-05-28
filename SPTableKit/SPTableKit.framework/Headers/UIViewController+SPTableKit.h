@@ -11,6 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 typedef void(^FinishedLoadingBlock)(BOOL isFinishedLoading);
+static UIView *AFview;
 
 @interface UIViewController (SPTableKit)<SPTableKitViewDelegate>
 @property (nonatomic,copy) FinishedLoadingBlock isFinishedLoading;
