@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "SPTableKit"
-  spec.version      = "0.4.2"
+  spec.version      = "0.4.3"
   spec.summary      = "快速、高效地构建TableView"
 
   # This description is used to generate tags and improve search results.
@@ -52,7 +52,7 @@ Pod::Spec.new do |spec|
   #  profile URL.
   #
 
-  spec.author             = { "Snackstops" => "30.4.26105@qq.com" }
+  spec.author             = { "Snackstops" => "30.4.36105@qq.com" }
   # Or just: spec.author    = "apple"
   # spec.authors            = { "apple" => "" }
   # spec.social_media_url   = "https://twitter.com/apple"
@@ -134,7 +134,7 @@ Pod::Spec.new do |spec|
 
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # spec.dependency "JSONKit", "~> 1.4"
-  spec.dependency  'AFNetworking','~> 4.0.1'
+  spec.dependency  'AFNetworking'
   spec.dependency  'JPush'
 
 end
